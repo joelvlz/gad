@@ -287,6 +287,11 @@ h1,h2,h3,h4,h5{
 	.info_col, .seccion_col{
 		transition: 0.7s;
 	}
+	
+	.seccion_des{
+		width: 100%;
+	}
+
 	.info_col:hover, .seccion_col:hover{
 		transform: scale(1.09);
 	}	
